@@ -3,6 +3,14 @@
 - 🌱 I’m currently learning computer vision.
 - 📫 How to reach me yelin.cheon@stonybrook.edu
 
+Repository list
+- MLP
+- UNet Scratch
+- DDP (Distributed Data Parallel)
+- research
+- Python
+- class work
+
 <!---
 ycheon1101/ycheon1101 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
