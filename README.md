@@ -9,8 +9,8 @@ Repository list
 - UNet Scratch  https://github.com/ycheon1101/UNet_Scratch
 - DDP (Distributed Data Parallel)  https://github.com/ycheon1101/DDP_train
 - research  https://github.com/ycheon1101/my_research
-- Python  <Private>
-- class work  <Private>
+- Python  (Private)
+- class work  (Private)
 
 <!---
 ycheon1101/ycheon1101 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
