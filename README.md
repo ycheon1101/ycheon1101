@@ -4,6 +4,7 @@
 - 📫 How to reach me yelin.cheon@stonybrook.edu
 
 Repository list
+- Zero Shot Visual Question Answering (VQA)  https://github.com/ycheon1101/VQA/tree/main
 - MLP  https://github.com/ycheon1101/MLP
 - Positional Encoding (Guassian Fourier Transform)  https://github.com/ycheon1101/positionalEncoding
 - UNet Scratch  https://github.com/ycheon1101/UNet_Scratch
