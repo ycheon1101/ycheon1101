@@ -18,9 +18,11 @@ Group Project
 - Web project
 
   https://github.com/SunwooKim12345/group-project with @SunwooKim12345
-  
+
+  https://github.com/ycheon1101/chatbot_SUNY with @JaewonPark01, @JNjeong
+ <!--- 
   https://github.com/JNjeong/CSE416 (Private)
-<!---
+
 ycheon1101/ycheon1101 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
