@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Yelin.
-- 👀 I’m interested in Computer vision and Robotics.
+- 👀 I’m interested in Computer vision.
 - 🌱 I’m currently learning computer vision.
 - 📫 How to reach me yelin.cheon@stonybrook.edu
 
