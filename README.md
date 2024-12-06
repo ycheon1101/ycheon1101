@@ -20,6 +20,10 @@ Group Project
   https://github.com/SunwooKim12345/group-project with @SunwooKim12345
 
   https://github.com/ycheon1101/chatbot_SUNY with @JaewonPark01, @JNjeong
+
+- AI / Data Science Project
+  
+  https://github.com/ycheon1101/optimizer_evaluation/tree/main with @SunwooKim12345
  <!--- 
   https://github.com/JNjeong/CSE416 (Private)
 
