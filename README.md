@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Yelin.
+- 👋 Hi, I’m Yelin(Yerin).
 - 👀 I’m interested in Computer vision.
 - 🌱 🤪
 - 📫 How to reach me yelin.cheon@stonybrook.edu
