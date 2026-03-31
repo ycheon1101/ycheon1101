@@ -1,7 +1,10 @@
-- 👋 Hi, I’m Yerin(Yelin).
-- 👀 I’m interested in Computer vision.
-- 🌱 🤪
-- 📫 How to reach me yelin.cheon@stonybrook.edu
+- 👋 Hi, I’m Yerin (Yelin).
+- 👀 I’m interested in Computer vision, Autonomous Vehicles, Perception, Unsupervised Learning, Robotics, and Sensor Fusion.
+- 📫 How to reach me ycheon@cs.stonybrook.edu
+
+Paper
+- Dual-Foundation Models for Unsupervised Domain Adaptation. (Private)
+  - The code will be released after the paper is accepted or officially published online.
 
 Repository list
 - Zero Shot Visual Question Answering (VQA)  https://github.com/ycheon1101/VQA/tree/main
