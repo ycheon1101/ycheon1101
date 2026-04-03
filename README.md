@@ -12,7 +12,7 @@ Repository list
 - Positional Encoding (Guassian Fourier Transform)  https://github.com/ycheon1101/positionalEncoding
 - UNet Scratch  https://github.com/ycheon1101/UNet_Scratch
 - DDP (Distributed Data Parallel)  https://github.com/ycheon1101/DDP_train
-- General Computer Vision  [https://github.com/ycheon1101/my_research](https://github.com/ycheon1101/computer_vision)
+- Image Classification (https://github.com/ycheon1101/computer_vision(https://github.com/ycheon1101/computer_vision)
 - Python  (Private)
 - class work  (Private)
 
