@@ -3,8 +3,7 @@
 - 📫 How to reach me ycheon@cs.stonybrook.edu
 
 Paper
-- Dual-Foundation Models for Unsupervised Domain Adaptation. (Private)
-  - The code will be released after the paper is accepted or officially published online.
+- Dual-Foundation Models for Unsupervised Domain Adaptation. https://github.com/ycheon1101/DFUDA
 
 Repository list
 - Zero Shot Visual Question Answering (VQA)  https://github.com/ycheon1101/VQA/tree/main
